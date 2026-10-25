@@ -1,0 +1,16 @@
+{
+  "/app/applet/contracts/GrievanceRegistry.sol": {
+    "jobHash": "solc-0_8_20-1689ab795d17d97da8599538b65e607a68e16386",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "/app/applet/artifacts/contracts/GrievanceRegistry.sol/GrievanceRegistry.json"
+    ],
+    "buildInfoPath": "/app/applet/artifacts/build-info/solc-0_8_20-1689ab795d17d97da8599538b65e607a68e16386.json",
+    "buildInfoOutputPath": "/app/applet/artifacts/build-info/solc-0_8_20-1689ab795d17d97da8599538b65e607a68e16386.output.json",
+    "typeFilePath": "/app/applet/artifacts/contracts/GrievanceRegistry.sol/artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "/app/applet/artifacts",
+    "emitsTypeDeclarations": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "GrievanceChain — Blockchain-Based Public Grievance Tracking System",
+  "description": "Decentralized public grievance management and tracking system built with Solidity smart contracts, Ethers.js, and MetaMask for transparent citizen complaint verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
